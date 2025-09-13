@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Animação da cobra - contribuições do GitHub](https://raw.githubusercontent.com/master-rogerio/master-rogerio/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/master-rogerio/master-rogerio/output/dist/github-snake.svg)
