@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome!
+
 <!--
 **master-rogerio/master-rogerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Snake animation](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake.svg)]
+![Snake animation](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake.svg)
 
-[![Snake animation Dark](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake-dark.svg)]
+![Snake animation Dark](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake-dark.svg)
 
 <!--  versão dark mode -->
