@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Animação da cobra - contribuições do GitHub](https://raw.githubusercontent.com/master-rogerio/master-rogerio/output/github-contribution-grid-snake.svg)
-![snake animation](https://raw.githubusercontent.com/master-rogerio/master-rogerio/output/dist/github-snake.svg)
+[![Snake animation](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake.svg)]
+
+[![Snake animation Dark](https://github.com/master-rogerio/master-rogerio/blob/main/dist/github-snake-dark.svg)]
+
+<!--  versão dark mode -->
